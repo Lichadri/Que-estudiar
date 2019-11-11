@@ -1,4 +1,5 @@
-# ![queestudiar](https://user-images.githubusercontent.com/51204770/68557841-19a7db00-0405-11ea-91b3-ec34e758bdda.png)
+# ![image](https://user-images.githubusercontent.com/51204770/68564664-29ccb400-041f-11ea-8b63-6fc51f58c302.png)
+
 
 ## Preámbulo
 
@@ -26,7 +27,7 @@ Director de Grupo Educación al Futuro
 ## UX Research
 
 
-| Skills                         | Nivel esperado             |
+| Skills                         |                            |
 |--------------------------------|----------------------------|
 | **Research**                                                |
 | Benchmark                      | Modelos de Negocio         |
@@ -39,19 +40,16 @@ Director de Grupo Educación al Futuro
 
 ### Problemas encontrados en los Estudiantes de 4to y 5to de Secunadria
 
-- CONOCER CÓMO SON LAS CARRERAS
-Es la principal necesidad de los estudiantes. Casos
+- CONOCER CÓMO SON LAS CARRERAS : Es la principal necesidad de los estudiantes. Casos
 de éxito.
-- TEST COMO ÚNICO SERVICIO
-Los estudiantes lo usan una vez y consideran que no
+
+- TEST COMO ÚNICO SERVICIO: Los estudiantes lo usan una vez y consideran que no
 hay información adicional.
-- ASESORÍA Y ACOMPAÑAMIENTO
-Realizaron el test solos en la sala de computación o
-en casa
-Proceso acelerado en los últimos meses de 5to de
-secundaria
-- REACCIÓN DE PADRES
-Los padres se empiezan a preocupar
+
+- ASESORÍA Y ACOMPAÑAMIENTO: Realizaron el test solos en la sala de computación o
+en casa, Proceso acelerado en los últimos meses de 5to de secundaria
+
+- REACCIÓN DE PADRES: Los padres se empiezan a preocupar
 cuando están al final de 5to secundaria
 
 ### USER PERSONA
@@ -78,10 +76,15 @@ cuando están al final de 5to secundaria
 ## RECOMENDACIONES FINALES
 
 - Contextualizar y actualizar las carreras.
+
 - Crear enlaces con los estudiantes universitarios y profesionales.
+
 - Consistencia y estándares visuales
+
 - Sintetizar el proceso.
+
 - Presentar la información para que puedan identificar habilidades.
+
 - Mostrar los servicios en base a los perfiles de los usuarios
 
 
